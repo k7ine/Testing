@@ -1,5 +1,5 @@
 <?php
-include('bd4.php');
+include('basedatos.php');
 
 $usuario = $_POST['usuario'];
 $pass = $_POST['pass'];

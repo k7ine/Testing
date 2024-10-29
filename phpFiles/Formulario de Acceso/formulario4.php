@@ -83,7 +83,7 @@
 
     <div class="form-container">
         <h2>Iniciar Sesión</h2>
-        <form action="./recibe4.php" method="post">
+        <form action="./almacena.php" method="post">
             <label for="nombre">Usuario:</label>
             <input type="text" name="usuario" required>
 
