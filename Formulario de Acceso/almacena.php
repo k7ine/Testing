@@ -1,4 +1,5 @@
 <?php
+
 include('basedatos.php');
 
 $usuario = $_POST['usuario'];
@@ -12,6 +13,5 @@ if ($usuario == $usuariobd && $pass == $passbd) {
 } else {
     header("Location: formulario4.php");
 }
-
 
 ?>
