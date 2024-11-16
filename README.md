@@ -1,5 +1,1 @@
-Este es mi repositorio de php,
-con él voy a estar mostrando 
-diferentes maneras de como 
-aprender php desde 0, si yo
-lo hice tu tamién podrás!
+Este es mi repositorio de Github, en él voy a mostrar diferentes ejercicios de php, bash y diferentes proyectos que vaya realizando, bienvenido!
